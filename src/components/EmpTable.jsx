@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from 'react';
 import { myContext } from '../context/AppContext';
 import Spinner from "./Spinner";
-import MobileEmpCard from './MobileEmpcard';
+import MobileEmpCard from './MobileEmpCard';
 
 
 const EmpTable = () => {
